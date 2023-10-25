@@ -24,7 +24,7 @@
                             <a class="nav-link active" aria-current="page" href="./about">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Another page</a>
+                            <a class="nav-link active" aria-current="page" href="./another-page">Another page</a>
                         </li>
                     </ul>
                 </div>

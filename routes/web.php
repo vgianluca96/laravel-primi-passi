@@ -16,12 +16,18 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view(
         'home',
-        ['name' => 'Gianluca']
+        ['name' => 'Laravel']
     );
 });
 
 Route::get('/about', function () {
     return view(
         'about'
+    );
+});
+
+Route::get('/another-page', function () {
+    return view(
+        'another-page'
     );
 });
