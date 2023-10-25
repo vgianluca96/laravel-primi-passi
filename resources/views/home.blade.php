@@ -12,6 +12,9 @@
     <h1>
         Hello Laravel
     </h1>
+    <h2>
+        Ciao {{$name}}
+    </h2>
 
 </body>
 
